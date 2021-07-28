@@ -13,3 +13,5 @@ Documentei essa avaliação com LATEX.
 Os comentários suportam o estilo de  Doxygen.
 
 Para a interface gráfica, utiliza-se o  OpenGL.
+
+Na primeira parte, não se faz necessário ter o sistema de pontuação.
