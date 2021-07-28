@@ -11,3 +11,5 @@ Trabalhar com uma aplicação que interage com uma GUI (GraphicalUser Interface)
 Documentei essa avaliação com LATEX.
 
 Os comentários suportam o estilo de  Doxygen.
+
+Para a interface gráfica, utiliza-se o  OpenGL.
