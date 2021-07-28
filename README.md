@@ -1,4 +1,4 @@
-# Programação de Interfaces Gráficas - AD1
+# Programação de Interfaces Gráficas.
 link da AD1:
 https://www.lcg.ufrj.br/python/ADs/AD1_2021-1.pdf
 
